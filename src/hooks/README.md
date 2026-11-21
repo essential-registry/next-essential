@@ -1,3 +1,3 @@
 # Hooks
 
-This directory contains the hooks that are used throughout the application.
+Shared React hooks used across features. Feature-specific hooks live in `src/features/<name>/hooks`.

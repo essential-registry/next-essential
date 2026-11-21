@@ -5,7 +5,7 @@ export default function Home() {
     <main
       className={"relative flex h-screen flex-col items-center justify-center"}
     >
-      <h1 className={"font-medium text-7xl tracking-tighter"}>
+      <h1 className={"text-7xl font-medium tracking-tighter"}>
         Next Essential
       </h1>
       <p className={"my-6 text-center text-base"}>
